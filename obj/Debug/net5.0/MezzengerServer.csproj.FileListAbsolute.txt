@@ -1,0 +1,16 @@
+G:\C#\Git\MezzengerServer\bin\Debug\net5.0\MezzengerServer.exe
+G:\C#\Git\MezzengerServer\bin\Debug\net5.0\MezzengerServer.deps.json
+G:\C#\Git\MezzengerServer\bin\Debug\net5.0\MezzengerServer.runtimeconfig.json
+G:\C#\Git\MezzengerServer\bin\Debug\net5.0\MezzengerServer.runtimeconfig.dev.json
+G:\C#\Git\MezzengerServer\bin\Debug\net5.0\MezzengerServer.dll
+G:\C#\Git\MezzengerServer\bin\Debug\net5.0\ref\MezzengerServer.dll
+G:\C#\Git\MezzengerServer\bin\Debug\net5.0\MezzengerServer.pdb
+G:\C#\Git\MezzengerServer\obj\Debug\net5.0\MezzengerServer.csproj.AssemblyReference.cache
+G:\C#\Git\MezzengerServer\obj\Debug\net5.0\MezzengerServer.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\Git\MezzengerServer\obj\Debug\net5.0\MezzengerServer.AssemblyInfoInputs.cache
+G:\C#\Git\MezzengerServer\obj\Debug\net5.0\MezzengerServer.AssemblyInfo.cs
+G:\C#\Git\MezzengerServer\obj\Debug\net5.0\MezzengerServer.csproj.CoreCompileInputs.cache
+G:\C#\Git\MezzengerServer\obj\Debug\net5.0\MezzengerServer.dll
+G:\C#\Git\MezzengerServer\obj\Debug\net5.0\ref\MezzengerServer.dll
+G:\C#\Git\MezzengerServer\obj\Debug\net5.0\MezzengerServer.pdb
+G:\C#\Git\MezzengerServer\obj\Debug\net5.0\MezzengerServer.genruntimeconfig.cache
