@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\C#\\Git\\MezzengerServer\\MezzengerServer.csproj": {}
+    "g:\\C#\\Git\\MezzengerServer\\MezzengerServer.csproj": {}
   },
   "projects": {
-    "G:\\C#\\Git\\MezzengerServer\\MezzengerServer.csproj": {
+    "g:\\C#\\Git\\MezzengerServer\\MezzengerServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\C#\\Git\\MezzengerServer\\MezzengerServer.csproj",
+        "projectUniqueName": "g:\\C#\\Git\\MezzengerServer\\MezzengerServer.csproj",
         "projectName": "MezzengerServer",
-        "projectPath": "G:\\C#\\Git\\MezzengerServer\\MezzengerServer.csproj",
+        "projectPath": "g:\\C#\\Git\\MezzengerServer\\MezzengerServer.csproj",
         "packagesPath": "C:\\Users\\matys\\.nuget\\packages\\",
-        "outputPath": "G:\\C#\\Git\\MezzengerServer\\obj\\",
+        "outputPath": "g:\\C#\\Git\\MezzengerServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matys\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
