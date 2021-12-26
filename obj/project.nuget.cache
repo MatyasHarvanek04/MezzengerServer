@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3HjrRYPWTBsicBm0vzB9BAq3+Emc7O9U+JYgsXQ+4vbBoc+LPd0O17hVlgZ1xlr5Y09nShBobkfuuy9gCeofyA==",
+  "dgSpecHash": "Otonwx+a7QAF+AJYb6qdI3LQ+Mfnnq1JnO3vT9RxcV3Tc4bWGx3vc6O3VzhGo+/+26oMxKHtXMxQUxua07pj/A==",
   "success": true,
-  "projectFilePath": "g:\\C#\\Git\\MezzengerServer\\MezzengerServer.csproj",
+  "projectFilePath": "G:\\C#\\Git\\MezzengerServer\\MezzengerServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matys\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

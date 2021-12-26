@@ -1,0 +1,5 @@
+{
+    "ip": "192.168.0.135",
+    "port": "5000",
+    "usersJsonPath": "../Data/users.json" 
+}

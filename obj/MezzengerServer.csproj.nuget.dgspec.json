@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "g:\\C#\\Git\\MezzengerServer\\MezzengerServer.csproj": {}
+    "G:\\C#\\Git\\MezzengerServer\\MezzengerServer.csproj": {}
   },
   "projects": {
-    "g:\\C#\\Git\\MezzengerServer\\MezzengerServer.csproj": {
+    "G:\\C#\\Git\\MezzengerServer\\MezzengerServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "g:\\C#\\Git\\MezzengerServer\\MezzengerServer.csproj",
+        "projectUniqueName": "G:\\C#\\Git\\MezzengerServer\\MezzengerServer.csproj",
         "projectName": "MezzengerServer",
-        "projectPath": "g:\\C#\\Git\\MezzengerServer\\MezzengerServer.csproj",
+        "projectPath": "G:\\C#\\Git\\MezzengerServer\\MezzengerServer.csproj",
         "packagesPath": "C:\\Users\\matys\\.nuget\\packages\\",
-        "outputPath": "g:\\C#\\Git\\MezzengerServer\\obj\\",
+        "outputPath": "G:\\C#\\Git\\MezzengerServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matys\\AppData\\Roaming\\NuGet\\NuGet.Config",

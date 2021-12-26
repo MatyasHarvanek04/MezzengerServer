@@ -14,3 +14,4 @@ G:\C#\Git\MezzengerServer\obj\Debug\net5.0\MezzengerServer.dll
 G:\C#\Git\MezzengerServer\obj\Debug\net5.0\ref\MezzengerServer.dll
 G:\C#\Git\MezzengerServer\obj\Debug\net5.0\MezzengerServer.pdb
 G:\C#\Git\MezzengerServer\obj\Debug\net5.0\MezzengerServer.genruntimeconfig.cache
+G:\C#\Git\MezzengerServer\bin\Debug\net5.0\Newtonsoft.Json.dll
