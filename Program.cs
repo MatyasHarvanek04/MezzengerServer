@@ -2,6 +2,7 @@
 using System.Net;
 using System.Net.Sockets;
 using System.IO;
+using Newtonsoft.Json;
 
 namespace MezzengerServer
 {
@@ -11,8 +12,7 @@ namespace MezzengerServer
         
         static void Main(string[] args)
         {
-            Server.init("5000", "192.168.0.135");
-
+            Server.init(Files.settings.Port, Files.settings.IP);
         }
     }
 }
